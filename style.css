@@ -19,6 +19,7 @@
         overflow: hidden;
         background: url(img/bg_main.jpg) center no-repeat;
         background-size: cover;
+        border-bottom: 6px solid #fff;
     }
     
     header .content {
@@ -64,12 +65,14 @@
     p {
         margin-top: 500px
     }
+    /*--------------------------------------------Background-----------------------------------------------*/
     
     body {
         background-image: linear-gradient(to bottom, #1f1715, #563e35, #826356, #c7a699);
         background-attachment: fixed;
         font-family: 'Quicksand', sans-serif;
     }
+    /*--------------------------------------------Sidebar--------------------------------------------------*/
     
     .ribbon {
         width: 60px;
@@ -120,4 +123,13 @@
         text-align: center;
         position: relative;
         left: 40%;
+    }
+    /*------------------------------------Main----------------------------------------*/
+    
+    h2 {
+        color: #fff;
+        text-align: center;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 20px;
     }
