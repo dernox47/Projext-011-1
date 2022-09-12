@@ -6,6 +6,9 @@ body {
     height: 100%;
 }
 
+
+/*---------------------------------Header---------------------------------------*/
+
 h1 {
     font-family: 'DynaPuff', cursive;
     text-transform: uppercase;
@@ -57,4 +60,13 @@ header .overlay {
     z-index: 0;
     opacity: 0;
     filter: blur(4px);
+}
+
+p {
+    margin-top: 500px
+}
+
+body {
+    background-image: linear-gradient(to bottom, #1f1715, #563e35, #826356, #c7a699);
+    background-attachment: fixed;
 }
