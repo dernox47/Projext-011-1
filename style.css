@@ -350,3 +350,8 @@ ol li:before {
     font-weight: 700;
     box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.2);
 }
+
+.nagyobb {
+    font-size: 120%;
+    text-decoration: underline;
+}
