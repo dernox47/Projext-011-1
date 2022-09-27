@@ -322,7 +322,7 @@ ol {
 ol li {
     display: block;
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 ol li:before {
