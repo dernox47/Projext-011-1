@@ -347,3 +347,27 @@ ol li:before {
     font-size: 120%;
     text-decoration: underline;
 }
+
+
+/*---------------------------------Footer------------------------------------*/
+
+footer {
+    height: 150px;
+    width: 100%;
+    background: #563e35;
+    margin-top: 120px;
+    border-top: 6px solid #fff;
+}
+
+footer h4,
+footer p {
+    text-align: center;
+}
+
+footer h4 {
+    margin-top: 20px;
+}
+
+footer p {
+    font-size: 0.9em;
+}
